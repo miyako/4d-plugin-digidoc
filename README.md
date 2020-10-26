@@ -7,7 +7,7 @@ Study of digidoc integration (not functional)
 
 ### Issues
 
-* The Trusted Services Store is always ``0``
+* The Trusted Services List is always ``0``
 
 ```sh
 2020-10-26T06:58:44Z I [X509CertStore.cpp:84] - Loaded 0 certificates into TSL certificate store.
