@@ -1,0 +1,2 @@
+//%attributes = {}
+digidoc_sign 

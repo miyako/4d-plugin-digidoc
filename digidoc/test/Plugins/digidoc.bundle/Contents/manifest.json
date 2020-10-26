@@ -1,0 +1,17 @@
+{
+    "name": "digidoc",
+    "id": 20000,
+    "commands": [
+        {
+            "theme": "digidoc",
+            "syntax": "digidoc_sign(&T;&J):J",
+            "threadSafe": true
+        },
+        {
+            "theme": "digidoc",
+            "syntax": "digidoc_verify(&T;&J):J",
+            "threadSafe": true
+        }
+    ]
+}
+
