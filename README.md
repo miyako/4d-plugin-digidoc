@@ -1,5 +1,5 @@
 # 4d-plugin-digidoc
-Study of digidoc integration (not functional)
+Study of [libdigidoc](https://github.com/open-eid/libdigidoc) integration (not functional)
 
 ### Milestones
 
